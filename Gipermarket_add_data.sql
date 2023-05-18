@@ -1,3 +1,4 @@
+USE Gipermarket;
 INSERT INTO gipermarket (id, name, e_site) VALUES
 ('1', 'Korzinka', 'korzinka.uz');
 

@@ -1,3 +1,4 @@
+USE Gipermarket;
 -- Direktorlar jadvalidagi familiya(last_name)si Rahmonov ning emaili shrahmonov@gmail.com ga o’zgartirilsin. 
 UPDATE director SET email='shrahmonov@gmail.com' WHERE last_name='Rahmonov'; 
 
